@@ -1,2 +1,2 @@
-# k8s-project
+# K8s Project
 Simple kubernetes project
